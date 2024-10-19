@@ -3,7 +3,7 @@ package web.models;
 
 import java.util.Objects;
 
-public class Car { ;
+public class Car {
     private String model;
     private String color;
     private int year;
